@@ -29,7 +29,7 @@
                                 </constraints>
                             </imageView>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="DUl-Hg-dsU">
-                                <rect key="frame" x="160.5" y="623" width="93" height="31"/>
+                                <rect key="frame" x="143" y="623" width="128" height="31"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="31" id="vYQ-EB-xrK"/>
                                     <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="93" id="vgw-9D-5hG"/>
